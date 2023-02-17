@@ -1,5 +1,5 @@
 # Ensemble-Learning
-Performing ensemble learning
+Performing ensemble learning.
 
 In this Notebook, I will perform:
 1. The Condorcet's Jury Theorem (using the law of large numbers).
